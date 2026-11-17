@@ -1,0 +1,89 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Lumière Glow Serum",
+      "category": "Serum",
+      "descriptions": "A lightweight, fast-absorbing elixir infused with hyaluronic acid and niacinamide. This serum deeply hydrates, refines texture, and smooths fine lines, leaving dull skin with an effortless, glass-like radiance and long-lasting lit-from-within glow.",
+      "price": 699,
+      "rating": 4.8,
+      "stock": 25,
+      "image": [
+        "/products/glow-serm1.png",
+        "/products/glow-serm2.png",
+        "/products/glow-serm3.png",
+        "/products/glow-serm4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rose Water Cleanser",
+      "category": "Face Wash",
+      "descriptions": "A gentle, pH-balanced wash powered by pure distilled Damask rose water and soothing centella asiatica. It effortlessly dissolves impurities, excess oil, and light makeup while preserving essential moisture, leaving your complexion soft, calm, and petal-smooth",
+      "price": 399,
+      "rating": 4.5,
+      "stock": 40,
+      "image": [
+        "/products/rose1.png",
+        "/products/rose2.png",
+        "/products/rose3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Velvet Moisturizer",
+      "category": "Moisturizer",
+      "descriptions": "A cloud-soft daily cream enriched with plant squalane, oat extract, and nourishing shea butter. It locks in moisture, fortifies your skin barrier, and melts into a weightless, velvety finish for smooth, supple comfort all day.",
+      "price": 549,
+      "rating": 4.7,
+      "stock": 30,
+      "image": [
+        "/products/velvet1.png",
+        "/products/velvet2.png",
+        "/products/velvet3.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sun Kiss SPF 50",
+      "category": "Sunscreen",
+      "descriptions": "An invisible, broad-spectrum sunscreen fluid that shields against damaging UVA/UVB rays and pollutants. Infused with green tea and vitamin E, it absorbs weightlessly with zero white cast, leaving a radiant, non-greasy, sun-kissed finish.",
+      "price": 599,
+      "rating": 4.6,
+      "stock": 35,
+      "image": [
+        "/products/sun-kiss1.png",
+        "/products/sun-kiss2.png",
+        "/products/sun-kiss3.png"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vitamin C Booster",
+      "category": "Serum",
+      "descriptions": "A potent 15% stabilized vitamin C concentrate formulated with ferulic acid to visibly brighten dark spots, even tone, and fight free radicals. Packaged in protective amber glass, it restores firmness and energized daytime luminosity.",
+      "price": 799,
+      "rating": 4.9,
+      "stock": 20,
+      "image": [
+        "/products/vitamin-c1.png",
+        "/products/vitamin-c2.png",
+        "/products/vitamin-c3.png"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Night Repair Cream",
+      "category": "Night Cream",
+      "descriptions": "An intensive restorative overnight balm enriched with bakuchiol and ceramides. Designed to sync with your skin's nocturnal renewal cycle, it deeply hydrates, smooths texture, and accelerates recovery so you wake up to rested, baby-soft skin.",
+      "price": 899,
+      "rating": 4.5,
+      "stock": 15,
+      "image": [
+        "/products/night-pepair1.png",
+        "/products/night-pepair2.png",
+        "/products/night-pepair3.png"
+      ]
+    }
+  ]
+}

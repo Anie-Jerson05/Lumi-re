@@ -1,0 +1,245 @@
+/*Laptop*/
+@media (min-width: 770px) {
+  main {
+    width: 100vw;
+    height: 87vh;
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    display: flex;
+    color: #332927;
+  }
+
+  .view-img-con {
+    height: 100%;
+    width: 60%;
+
+    img {
+      height: 85%;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  .view-text-con {
+    padding: 20px;
+
+    h2 {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 16px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+  }
+
+  .view-rs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h3 {
+      font-size: 20px;
+      font-weight: 600;
+    }
+
+    .view-but {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+
+      button {
+        padding: 10px 15px;
+        border-radius: 10px;
+        color: #fff9f5;
+        background-color: #a66c62;
+        border: none;
+        outline: none;
+        transition: 0.7s;
+      }
+
+      button:hover {
+        color: #a66c62;
+        background-color: #fff9f5;
+        border: 1px solid #a66c62;
+      }
+
+      p {
+        padding: 10px;
+        font-size: 18px;
+      }
+
+    }
+  }
+
+  .name-rating{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+
+    p{
+      font-size: 12px;
+      padding: 10px;
+    }
+  }
+
+  .view-but2 {
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+    margin-top: 20px;
+
+    button {
+      padding: 20px 30px;
+      font-size: 20px;
+      font-weight: 600;
+      border-radius: 20px;
+      color: #fff9f5;
+      background-color: #a66c62;
+      border: none;
+      outline: none;
+      transition: 0.7s;
+    }
+
+    button:hover {
+      color: #a66c62;
+      background-color: #fff9f5;
+      border: 1px solid #a66c62;
+    }
+  }
+
+  .small-img-con {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+  }
+
+  .small-img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .small-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+@media (max-width: 770px) {
+  main {
+    width: 100vw;
+    height: 87vh;
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    display: flex;
+    color: #332927;
+  }
+
+  .view-img-con {
+    height: 70%;
+    width: 50%;
+
+    img {
+      height: 85%;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  .view-text-con {
+    padding: 20px;
+    width: 49%;
+
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 10px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+  }
+
+  .view-rs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+    h3 {
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .view-but {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+
+      button {
+        padding: 5px 10px;
+        border-radius: 10px;
+        color: #fff9f5;
+        background-color: #d9a6a0;
+        border: none;
+        outline: none;
+      }
+      p {
+        padding: 5px;
+        font-size: 10px;
+      }
+    }
+  }
+
+  .view-but2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: end;
+    gap: 30px;
+    margin-top: 20px;
+
+    button {
+      padding: 15px 20px;
+      font-size: 14px;
+      font-weight: 600;
+      border-radius: 20px;
+      color: #fff9f5;
+      background-color: #d9a6a0;
+      border: none;
+      outline: none;
+    }
+  }
+
+  .small-img-con {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+  }
+
+  .small-img {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .small-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
