@@ -115,11 +115,6 @@ Make sure your `package.json` has scripts configured to start both Vite and JSON
 
 ## 📸 Screenshots
 
-Add your project screenshots here after uploading them to your GitHub repository.
-
-For example:
-
-```markdown
 ![Home Page](/src/assets/Home%20Screenshot.png)
 ![Product Page](/src/assets/Product%20Screenshot.png)
 ![Shopping Cart](/src/assets/Shopping%20Cart%20Screenshot.png)
